@@ -1,6 +1,6 @@
 # Simple Math Game
 
-A Python based simple math game to test and improve your mental arithmetic skills. The game uses console for interaction.
+A Python based simple math game to test and improve your mental arithmetic skills. The game uses console for interaction. Made in around 2015.
 
 ## Description
 
